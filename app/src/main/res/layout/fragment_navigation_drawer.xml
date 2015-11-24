@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 <ListView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:choiceMode="singleChoice"
     android:divider="@android:color/transparent" android:dividerHeight="0dp"
     android:background="#cccc"
     tools:context="fr.esiea.ph.carnetdevoyages4.NavigationDrawerFragment" />
+=======
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:choiceMode="singleChoice"
+    android:divider="@android:color/transparent" android:dividerHeight="0dp"
+    android:background="#cccc"
+    tools:context="fr.esiea.ph.carnetdevoyages4.NavigationDrawerFragment" />
+>>>>>>> d328cc045cd3a6cd9d971f8a9051b034603bb0c4

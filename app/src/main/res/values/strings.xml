@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
@@ -23,4 +24,31 @@
     <string name="email_format_error">L email ne correspond pas au format d une adresse mail</string>
     <string name="title_activity_maps">Map</string>
 
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carnet de Voyages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Carnet de Voyages</string>
+    <string name="image_content_description">Un Android avec un chien</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email">Adresse email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav_drawer_">Nav_drawer_Activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="hint_mail">"Ici : L adresse email de l utilisateur"</string>
+    <string name="hint_pass">"Ici : Le mot de passe de l utilisateur"</string>
+    <string name="email_format_error">L email ne correspond pas au format d une adresse mail</string>
+    <string name="title_activity_maps">Map</string>
+
+>>>>>>> d328cc045cd3a6cd9d971f8a9051b034603bb0c4
 </resources>

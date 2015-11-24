@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:id="@+id/map"
     tools:context="fr.esiea.ph.carnetdevoyages4.MapsActivity"
     android:name="com.google.android.gms.maps.SupportMapFragment" />
+=======
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/map"
+    tools:context="fr.esiea.ph.carnetdevoyages4.MapsActivity"
+    android:name="com.google.android.gms.maps.SupportMapFragment" />
+>>>>>>> d328cc045cd3a6cd9d971f8a9051b034603bb0c4
